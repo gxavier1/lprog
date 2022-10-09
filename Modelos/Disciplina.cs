@@ -1,4 +1,4 @@
-namespace Modelos {
+.namespace Modelos {
 
   class Disciplina {
     
