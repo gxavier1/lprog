@@ -1,8 +1,12 @@
-.namespace Modelos {
+namespace Modelos {
 
   class Disciplina {
     
     private int semestre;
+
+    public Disciplina Prerequisito {
+      get; set;
+    }
 
     public string Nome {
       get; set;
